@@ -1,3 +1,4 @@
+# Unity generated files
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -5,6 +6,8 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
+
+# Visual Studio / C# cache
 .vs/
 *.csproj
 *.unityproj
@@ -20,5 +23,7 @@
 *.mdb
 *.opendb
 *.VC.db
+
+# OS generated
 .DS_Store
 Thumbs.db
